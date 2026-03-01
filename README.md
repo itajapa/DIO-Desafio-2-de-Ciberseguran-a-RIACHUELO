@@ -1,5 +1,7 @@
 # Simulação de Malware em Python – Bootcamp DIO.me
 
+⚠️ Todas as atividades foram realizadas exclusivamente em ambiente controlado para fins acadêmicos.
+
 # 📚 Conceitos Estudados
 
 Durante o desafio, foram abordados os principais tipos de malware:
